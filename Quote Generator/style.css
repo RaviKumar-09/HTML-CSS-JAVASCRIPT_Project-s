@@ -12,4 +12,6 @@ body {
     align-items: center;
     height: 100vh;
     text-align: center;
+    background: url(images/bookStore.jpg) no-repeat center center/ cover;
+
 }
