@@ -55,3 +55,16 @@ body {
     margin: 20px;
 
 }
+
+.button-area button {
+    background-color: #262626;
+    color: #fff;
+    font-size: 1.3rem;
+    padding: 10px 15px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.button-area button:active {
+    background-color: lightblue;
+}
