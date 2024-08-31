@@ -4,6 +4,8 @@ This repository contains a collection of mini-projects and exercises built using
 
 ## Projects Included
 1. **Project Name 1**: Quote Generator.
+2. **Project Name 2**: Modal.
+
 
 ## Key Features
 - **Responsive Design**: Projects are designed to work seamlessly across different screen sizes and devices.
