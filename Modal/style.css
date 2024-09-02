@@ -132,7 +132,7 @@ body {
 /* Smallest Screens (e.g., older iPhones, small Android devices) */
 @media screen and (max-width: 320px) {
     .container {
-        padding: 0 0px;
+        padding: 10px 10px;
     }
     
     .header, .content, .footer {
