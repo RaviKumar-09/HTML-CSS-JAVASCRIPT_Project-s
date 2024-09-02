@@ -120,7 +120,7 @@ body {
 @media screen and (max-width: 480px) {
     .container {
         width: 100%;
-        padding: 0 10px;
+        padding: 0 0px;
     }
     
     .header, .content, .footer {
