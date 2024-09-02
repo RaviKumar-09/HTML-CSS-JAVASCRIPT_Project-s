@@ -93,3 +93,15 @@ body {
         margin: 5px 0;
     }
 }
+
+/* Smartphones (Landscape) */
+@media screen and (max-width: 768px) {
+    .container {
+        width: 95%;
+    }
+    
+    .header, .content, .footer {
+        padding: 10px;
+        margin: 6px 0;
+    }
+}
