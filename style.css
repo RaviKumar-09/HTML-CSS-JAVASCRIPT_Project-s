@@ -69,7 +69,7 @@ body {
     background-color: lightblue;
 }
 
-/* Smallest Screens (e.g., older iPhones, small Android devices) */
+/* Smallest Screens (e.g., older iPhones, small Android devices) 
 @media screen and (max-width: 320px) {
     .container {
         padding: 0 5px;
@@ -81,7 +81,7 @@ body {
     }
 }
 
-/* Smartphones (Portrait) */
+ Smartphones (Portrait) 
 @media screen and (max-width: 480px) {
     .container {
         width: 100%;
@@ -94,7 +94,7 @@ body {
     }
 }
 
-/* Smartphones (Landscape) */
+ Smartphones (Landscape) 
 @media screen and (max-width: 768px) {
     .container {
         width: 95%;
@@ -106,7 +106,7 @@ body {
     }
 }
 
-/* Tablets (Landscape and Portrait) */
+ Tablets (Landscape and Portrait) 
 @media screen and (max-width: 1024px) {
     .container {
         width: 90%;
@@ -116,4 +116,4 @@ body {
         padding: 15px;
         margin: 8px 0;
     }
-}
+}*/
