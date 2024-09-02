@@ -105,3 +105,15 @@ body {
         margin: 6px 0;
     }
 }
+
+/* Tablets (Landscape and Portrait) */
+@media screen and (max-width: 1024px) {
+    .container {
+        width: 90%;
+    }
+    
+    .header, .content, .footer {
+        padding: 15px;
+        margin: 8px 0;
+    }
+}
