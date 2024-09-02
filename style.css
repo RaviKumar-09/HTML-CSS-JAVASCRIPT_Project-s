@@ -68,3 +68,15 @@ body {
 .button-area button:active {
     background-color: lightblue;
 }
+
+/* Smallest Screens (e.g., older iPhones, small Android devices) */
+@media screen and (max-width: 320px) {
+    .container {
+        padding: 0 5px;
+    }
+    
+    .header, .content, .footer {
+        padding: 5px;
+        margin: 3px 0;
+    }
+}
